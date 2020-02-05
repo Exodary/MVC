@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\bin\Debug\ExerciseOOP.exe.config
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\bin\Debug\ExerciseOOP.exe
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\bin\Debug\ExerciseOOP.pdb
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\obj\Debug\ExerciseOOP.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\obj\Debug\ExerciseOOP.exe
+C:\Users\Krasimir\source\repos\ExerciseOOP\ExerciseOOP\obj\Debug\ExerciseOOP.pdb
