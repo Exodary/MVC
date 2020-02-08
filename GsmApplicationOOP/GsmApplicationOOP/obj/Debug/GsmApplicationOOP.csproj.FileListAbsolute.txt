@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\bin\Debug\GsmApplicationOOP.exe.config
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\bin\Debug\GsmApplicationOOP.exe
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\bin\Debug\GsmApplicationOOP.pdb
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\obj\Debug\GsmApplicationOOP.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\obj\Debug\GsmApplicationOOP.exe
+C:\Users\Krasimir\source\repos\GsmApplicationOOP\GsmApplicationOOP\obj\Debug\GsmApplicationOOP.pdb
