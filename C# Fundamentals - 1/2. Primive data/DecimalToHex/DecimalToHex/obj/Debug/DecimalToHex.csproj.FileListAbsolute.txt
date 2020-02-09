@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+C:\Users\Krasimir\source\repos\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.exe
+C:\Users\Krasimir\source\repos\DecimalToHex\DecimalToHex\bin\Debug\DecimalToHex.pdb
+C:\Users\Krasimir\source\repos\DecimalToHex\DecimalToHex\obj\Debug\DecimalToHex.exe
+C:\Users\Krasimir\source\repos\DecimalToHex\DecimalToHex\obj\Debug\DecimalToHex.pdb

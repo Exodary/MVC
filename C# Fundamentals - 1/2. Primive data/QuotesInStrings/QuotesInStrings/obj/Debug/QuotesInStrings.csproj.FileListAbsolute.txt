@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Krasimir\source\repos\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Krasimir\source\repos\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Krasimir\source\repos\QuotesInStrings\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Krasimir\source\repos\QuotesInStrings\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

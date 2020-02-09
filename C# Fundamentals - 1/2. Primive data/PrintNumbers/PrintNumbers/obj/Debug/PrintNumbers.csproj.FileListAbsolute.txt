@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Krasimir\source\repos\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb

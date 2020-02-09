@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\PrintSequance\PrintSequance\bin\Debug\PrintSequance.exe.config
+C:\Users\Krasimir\source\repos\PrintSequance\PrintSequance\bin\Debug\PrintSequance.exe
+C:\Users\Krasimir\source\repos\PrintSequance\PrintSequance\bin\Debug\PrintSequance.pdb
+C:\Users\Krasimir\source\repos\PrintSequance\PrintSequance\obj\Debug\PrintSequance.exe
+C:\Users\Krasimir\source\repos\PrintSequance\PrintSequance\obj\Debug\PrintSequance.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\bin\Debug\OddOrEvenAndWords.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\bin\Debug\OddOrEvenAndWords.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\bin\Debug\OddOrEvenAndWords.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\obj\Debug\OddOrEvenAndWords.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\obj\Debug\OddOrEvenAndWords.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEvenAndWords\OddOrEvenAndWords\obj\Debug\OddOrEvenAndWords.pdb
