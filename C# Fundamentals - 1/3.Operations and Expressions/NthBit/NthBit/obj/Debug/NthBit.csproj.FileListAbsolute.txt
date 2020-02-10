@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NthBit\NthBit\bin\Debug\NthBit.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NthBit\NthBit\bin\Debug\NthBit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NthBit\NthBit\bin\Debug\NthBit.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NthBit\NthBit\obj\Debug\NthBit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NthBit\NthBit\obj\Debug\NthBit.pdb

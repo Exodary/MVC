@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\obj\Debug\ModifyBit.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ModifyBit\ModifyBit\obj\Debug\ModifyBit.pdb

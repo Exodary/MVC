@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\DividedBy7And5\DividedBy7And5\bin\Debug\DividedBy7And5.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\DividedBy7And5\DividedBy7And5\bin\Debug\DividedBy7And5.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\DividedBy7And5\DividedBy7And5\bin\Debug\DividedBy7And5.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\DividedBy7And5\DividedBy7And5\obj\Debug\DividedBy7And5.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\DividedBy7And5\DividedBy7And5\obj\Debug\DividedBy7And5.pdb

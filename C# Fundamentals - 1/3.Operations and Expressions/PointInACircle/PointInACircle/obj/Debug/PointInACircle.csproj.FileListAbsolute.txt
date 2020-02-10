@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\obj\Debug\PointInACircle.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointInACircle\PointInACircle\obj\Debug\PointInACircle.pdb

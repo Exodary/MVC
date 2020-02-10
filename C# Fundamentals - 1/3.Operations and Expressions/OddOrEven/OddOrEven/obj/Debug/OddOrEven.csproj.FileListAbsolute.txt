@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEven\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEven\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\OddOrEven\OddOrEven\obj\Debug\OddOrEven.pdb

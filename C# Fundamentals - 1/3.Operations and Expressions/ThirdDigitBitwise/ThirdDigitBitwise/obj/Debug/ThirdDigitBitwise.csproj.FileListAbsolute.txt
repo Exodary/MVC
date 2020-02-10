@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigitBitwise\ThirdDigitBitwise\bin\Debug\ThirdDigitBitwise.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigitBitwise\ThirdDigitBitwise\bin\Debug\ThirdDigitBitwise.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigitBitwise\ThirdDigitBitwise\bin\Debug\ThirdDigitBitwise.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigitBitwise\ThirdDigitBitwise\obj\Debug\ThirdDigitBitwise.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigitBitwise\ThirdDigitBitwise\obj\Debug\ThirdDigitBitwise.pdb

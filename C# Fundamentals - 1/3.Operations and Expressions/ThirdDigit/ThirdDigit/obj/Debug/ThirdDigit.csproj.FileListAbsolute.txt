@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\ThirdDigit\ThirdDigit\obj\Debug\ThirdDigit.csprojAssemblyReference.cache

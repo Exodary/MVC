@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\PointCircleRectangle\PointCircleRectangle\obj\Debug\PointCircleRectangle.csprojAssemblyReference.cache

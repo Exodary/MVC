@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\Trapezoids\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\Trapezoids\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\Trapezoids\Trapezoids\obj\Debug\Trapezoids.pdb
