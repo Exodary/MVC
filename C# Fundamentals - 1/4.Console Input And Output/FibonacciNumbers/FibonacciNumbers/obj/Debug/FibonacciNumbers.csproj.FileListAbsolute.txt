@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\FibonacciNumbers\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojAssemblyReference.cache

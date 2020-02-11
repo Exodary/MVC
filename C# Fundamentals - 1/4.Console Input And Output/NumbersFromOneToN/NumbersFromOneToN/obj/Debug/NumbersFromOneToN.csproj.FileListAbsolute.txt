@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

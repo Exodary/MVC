@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\CompanyInfo\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\CompanyInfo\CompanyInfo\bin\Debug\CompanyInfo.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\CompanyInfo\CompanyInfo\bin\Debug\CompanyInfo.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\CompanyInfo\CompanyInfo\obj\Debug\CompanyInfo.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\CompanyInfo\CompanyInfo\obj\Debug\CompanyInfo.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

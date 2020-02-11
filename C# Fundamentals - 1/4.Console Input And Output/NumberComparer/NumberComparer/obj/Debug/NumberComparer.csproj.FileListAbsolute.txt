@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumberComparer\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumberComparer\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumberComparer\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumberComparer\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\NumberComparer\NumberComparer\obj\Debug\NumberComparer.pdb

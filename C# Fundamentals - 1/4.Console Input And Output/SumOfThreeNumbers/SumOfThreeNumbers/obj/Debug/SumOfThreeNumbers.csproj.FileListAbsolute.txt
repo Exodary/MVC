@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\SumOfThreeNumbers\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb
