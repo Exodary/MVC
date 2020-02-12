@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\obj\Debug\ExchangeNumbers.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+C:\Users\Krasimir\source\repos\ExchangeNumbers\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\BonusScore\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Krasimir\source\repos\BonusScore\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Krasimir\source\repos\BonusScore\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Krasimir\source\repos\BonusScore\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Krasimir\source\repos\BonusScore\BonusScore\obj\Debug\BonusScore.pdb

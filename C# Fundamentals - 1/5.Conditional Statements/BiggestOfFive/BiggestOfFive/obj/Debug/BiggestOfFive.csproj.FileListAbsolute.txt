@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\BiggestOfFive\BiggestOfFive\bin\Debug\BiggestOfFive.exe.config
+C:\Users\Krasimir\source\repos\BiggestOfFive\BiggestOfFive\bin\Debug\BiggestOfFive.exe
+C:\Users\Krasimir\source\repos\BiggestOfFive\BiggestOfFive\bin\Debug\BiggestOfFive.pdb
+C:\Users\Krasimir\source\repos\BiggestOfFive\BiggestOfFive\obj\Debug\BiggestOfFive.exe
+C:\Users\Krasimir\source\repos\BiggestOfFive\BiggestOfFive\obj\Debug\BiggestOfFive.pdb

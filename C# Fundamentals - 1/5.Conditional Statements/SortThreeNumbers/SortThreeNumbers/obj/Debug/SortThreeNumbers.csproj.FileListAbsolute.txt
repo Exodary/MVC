@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+C:\Users\Krasimir\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+C:\Users\Krasimir\source\repos\SortThreeNumbers\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+C:\Users\Krasimir\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+C:\Users\Krasimir\source\repos\SortThreeNumbers\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

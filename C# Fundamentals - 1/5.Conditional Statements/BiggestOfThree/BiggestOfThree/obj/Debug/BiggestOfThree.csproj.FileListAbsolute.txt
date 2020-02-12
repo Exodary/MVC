@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\BiggestOfThree\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+C:\Users\Krasimir\source\repos\BiggestOfThree\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+C:\Users\Krasimir\source\repos\BiggestOfThree\BiggestOfThree\bin\Debug\BiggestOfThree.pdb
+C:\Users\Krasimir\source\repos\BiggestOfThree\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+C:\Users\Krasimir\source\repos\BiggestOfThree\BiggestOfThree\obj\Debug\BiggestOfThree.pdb

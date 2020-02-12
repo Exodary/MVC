@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Krasimir\source\repos\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\Krasimir\source\repos\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\Krasimir\source\repos\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Krasimir\source\repos\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.pdb
