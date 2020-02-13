@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Krasimir\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+C:\Users\Krasimir\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+C:\Users\Krasimir\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Krasimir\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

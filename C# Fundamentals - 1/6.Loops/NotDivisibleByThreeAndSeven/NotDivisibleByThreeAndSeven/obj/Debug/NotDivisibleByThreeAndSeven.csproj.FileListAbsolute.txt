@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\6.Loops\NotDivisibleByThreeAndSeven\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\6.Loops\NotDivisibleByThreeAndSeven\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\6.Loops\NotDivisibleByThreeAndSeven\NotDivisibleByThreeAndSeven\bin\Debug\NotDivisibleByThreeAndSeven.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\6.Loops\NotDivisibleByThreeAndSeven\NotDivisibleByThreeAndSeven\obj\Debug\NotDivisibleByThreeAndSeven.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 1\6.Loops\NotDivisibleByThreeAndSeven\NotDivisibleByThreeAndSeven\obj\Debug\NotDivisibleByThreeAndSeven.pdb
