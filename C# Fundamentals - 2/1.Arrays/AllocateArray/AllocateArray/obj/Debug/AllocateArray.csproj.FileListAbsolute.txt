@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\bin\Debug\AllocateArray.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\bin\Debug\AllocateArray.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\obj\Debug\AllocateArray.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\AllocateArray\AllocateArray\obj\Debug\AllocateArray.pdb

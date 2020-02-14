@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareCharArrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareCharArrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareCharArrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareCharArrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareCharArrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

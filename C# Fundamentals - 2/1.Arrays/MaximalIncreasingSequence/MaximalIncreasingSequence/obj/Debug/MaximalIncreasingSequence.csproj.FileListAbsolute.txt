@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalIncreasingSequence\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalIncreasingSequence\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb

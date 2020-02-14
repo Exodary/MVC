@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\bin\Debug\MaximalSequance.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\bin\Debug\MaximalSequance.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\bin\Debug\MaximalSequance.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\obj\Debug\MaximalSequance.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\obj\Debug\MaximalSequance.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximalSequance\MaximalSequance\obj\Debug\MaximalSequance.csprojAssemblyReference.cache

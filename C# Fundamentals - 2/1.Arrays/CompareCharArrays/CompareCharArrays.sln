@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareCharArrays", "CompareCharArrays\CompareCharArrays.csproj", "{05074B0B-2C50-4023-9905-5385C766A397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05074B0B-2C50-4023-9905-5385C766A397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05074B0B-2C50-4023-9905-5385C766A397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05074B0B-2C50-4023-9905-5385C766A397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05074B0B-2C50-4023-9905-5385C766A397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7019C79-4BAE-44F1-88A3-B820CE1C12B2}
+	EndGlobalSection
+EndGlobal

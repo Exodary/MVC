@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\obj\Debug\CompareArrays.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\CompareArrays\CompareArrays\obj\Debug\CompareArrays.pdb
