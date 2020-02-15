@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximumKSum\MaximumKSum\bin\Debug\MaximumKSum.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximumKSum\MaximumKSum\bin\Debug\MaximumKSum.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximumKSum\MaximumKSum\bin\Debug\MaximumKSum.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximumKSum\MaximumKSum\obj\Debug\MaximumKSum.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MaximumKSum\MaximumKSum\obj\Debug\MaximumKSum.pdb
