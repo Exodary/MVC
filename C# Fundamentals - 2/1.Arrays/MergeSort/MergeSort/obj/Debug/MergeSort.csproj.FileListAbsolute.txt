@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
