@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\bin\Debug\SieveOfEratostenes.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\bin\Debug\SieveOfEratostenes.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\bin\Debug\SieveOfEratostenes.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\obj\Debug\SieveOfEratostenes.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\obj\Debug\SieveOfEratostenes.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\SieveOfEratostenes\SieveOfEratostenes\obj\Debug\SieveOfEratostenes.pdb
