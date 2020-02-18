@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\bin\Debug\SayHello.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\bin\Debug\SayHello.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\bin\Debug\SayHello.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\obj\Debug\SayHello.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\obj\Debug\SayHello.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SayHello\SayHello\obj\Debug\SayHello.pdb
