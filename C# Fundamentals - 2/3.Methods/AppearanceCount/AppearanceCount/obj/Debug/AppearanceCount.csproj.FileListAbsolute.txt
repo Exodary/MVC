@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\bin\Debug\AppearanceCount.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\bin\Debug\AppearanceCount.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\bin\Debug\AppearanceCount.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\obj\Debug\AppearanceCount.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\obj\Debug\AppearanceCount.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\AppearanceCount\AppearanceCount\obj\Debug\AppearanceCount.pdb
