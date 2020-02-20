@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.2 Multidimentional Arrays\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.pdb
