@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

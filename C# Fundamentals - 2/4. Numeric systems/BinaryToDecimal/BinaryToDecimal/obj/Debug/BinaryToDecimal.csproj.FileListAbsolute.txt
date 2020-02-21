@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToDecimal\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToDecimal\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
