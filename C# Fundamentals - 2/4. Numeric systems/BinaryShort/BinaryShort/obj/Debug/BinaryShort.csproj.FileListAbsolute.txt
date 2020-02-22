@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\bin\Debug\BinaryShort.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\bin\Debug\BinaryShort.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\bin\Debug\BinaryShort.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\obj\Debug\BinaryShort.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\obj\Debug\BinaryShort.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryShort\BinaryShort\obj\Debug\BinaryShort.pdb
