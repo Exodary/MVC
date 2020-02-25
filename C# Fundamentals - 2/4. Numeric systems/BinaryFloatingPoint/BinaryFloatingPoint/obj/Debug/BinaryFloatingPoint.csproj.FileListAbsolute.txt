@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryFloatingPoint\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.pdb
