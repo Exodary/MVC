@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleSurfaceSideAttitude", "TriangleSurfaceSideAttitude\TriangleSurfaceSideAttitude.csproj", "{9617B696-220B-43BA-9FA5-4D603115B531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9617B696-220B-43BA-9FA5-4D603115B531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9617B696-220B-43BA-9FA5-4D603115B531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9617B696-220B-43BA-9FA5-4D603115B531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9617B696-220B-43BA-9FA5-4D603115B531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29F1A698-54E1-463B-9204-4277F8A30759}
+	EndGlobalSection
+EndGlobal

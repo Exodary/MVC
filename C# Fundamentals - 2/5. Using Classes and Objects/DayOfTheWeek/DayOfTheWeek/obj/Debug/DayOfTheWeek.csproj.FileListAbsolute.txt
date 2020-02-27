@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\bin\Debug\DayOfTheWeek.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\bin\Debug\DayOfTheWeek.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\obj\Debug\DayOfTheWeek.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\obj\Debug\DayOfTheWeek.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\DayOfTheWeek\DayOfTheWeek\obj\Debug\DayOfTheWeek.pdb
