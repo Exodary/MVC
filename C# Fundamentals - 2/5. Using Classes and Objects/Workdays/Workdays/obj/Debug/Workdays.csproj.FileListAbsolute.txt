@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\bin\Debug\Workdays.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\bin\Debug\Workdays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\bin\Debug\Workdays.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\obj\Debug\Workdays.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\obj\Debug\Workdays.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\5. Using Classes and Objects\Workdays\Workdays\obj\Debug\Workdays.pdb
