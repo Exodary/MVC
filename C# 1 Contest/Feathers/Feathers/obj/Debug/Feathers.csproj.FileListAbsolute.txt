@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\bin\Debug\Feathers.exe.config
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\bin\Debug\Feathers.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\bin\Debug\Feathers.pdb
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\obj\Debug\Feathers.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\obj\Debug\Feathers.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\Feathers\Feathers\obj\Debug\Feathers.pdb
