@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\bin\Debug\SolveTasks.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\bin\Debug\SolveTasks.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\bin\Debug\SolveTasks.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\obj\Debug\SolveTasks.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\obj\Debug\SolveTasks.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\SolveTasks\SolveTasks\obj\Debug\SolveTasks.pdb
