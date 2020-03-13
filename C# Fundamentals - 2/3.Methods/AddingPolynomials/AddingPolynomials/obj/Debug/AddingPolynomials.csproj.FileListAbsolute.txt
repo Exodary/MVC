@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\obj\Debug\AddingPolynomials.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+C:\Users\Krasimir\source\repos\AddingPolynomials\AddingPolynomials\obj\Debug\AddingPolynomials.pdb
