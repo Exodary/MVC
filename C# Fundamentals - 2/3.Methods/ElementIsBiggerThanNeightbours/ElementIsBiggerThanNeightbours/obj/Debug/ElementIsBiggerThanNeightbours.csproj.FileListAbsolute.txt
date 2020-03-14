@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ElementIsBiggerThanNeightbours\ElementIsBiggerThanNeightbours\bin\Debug\ElementIsBiggerThanNeightbours.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ElementIsBiggerThanNeightbours\ElementIsBiggerThanNeightbours\bin\Debug\ElementIsBiggerThanNeightbours.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ElementIsBiggerThanNeightbours\ElementIsBiggerThanNeightbours\bin\Debug\ElementIsBiggerThanNeightbours.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ElementIsBiggerThanNeightbours\ElementIsBiggerThanNeightbours\obj\Debug\ElementIsBiggerThanNeightbours.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ElementIsBiggerThanNeightbours\ElementIsBiggerThanNeightbours\obj\Debug\ElementIsBiggerThanNeightbours.pdb

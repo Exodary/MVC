@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\bin\Debug\ReversedNumber.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\bin\Debug\ReversedNumber.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\bin\Debug\ReversedNumber.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\obj\Debug\ReversedNumber.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\obj\Debug\ReversedNumber.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\2.3 Methods\ReversedNumber\ReversedNumber\obj\Debug\ReversedNumber.csprojAssemblyReference.cache
