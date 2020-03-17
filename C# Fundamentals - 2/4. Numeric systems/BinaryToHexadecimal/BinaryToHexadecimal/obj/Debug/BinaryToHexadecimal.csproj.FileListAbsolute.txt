@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BinaryToHexadecimal\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb
