@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\bin\Debug\BaseNToDecimal.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\bin\Debug\BaseNToDecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\bin\Debug\BaseNToDecimal.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\obj\Debug\BaseNToDecimal.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\obj\Debug\BaseNToDecimal.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\4. Numeric systems\BaseNToDecimal\BaseNToDecimal\obj\Debug\BaseNToDecimal.pdb
