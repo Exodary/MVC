@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\bin\Debug\StringsInCSharp.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\bin\Debug\StringsInCSharp.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\bin\Debug\StringsInCSharp.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\obj\Debug\StringsInCSharp.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\obj\Debug\StringsInCSharp.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringsInCSharp\StringsInCSharp\obj\Debug\StringsInCSharp.pdb
