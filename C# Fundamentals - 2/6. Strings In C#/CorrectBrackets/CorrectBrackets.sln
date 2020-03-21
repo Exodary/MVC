@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectBrackets", "CorrectBrackets\CorrectBrackets.csproj", "{400E7093-5B2F-4097-AFEB-7DD5EEA7ADED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400E7093-5B2F-4097-AFEB-7DD5EEA7ADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400E7093-5B2F-4097-AFEB-7DD5EEA7ADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400E7093-5B2F-4097-AFEB-7DD5EEA7ADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400E7093-5B2F-4097-AFEB-7DD5EEA7ADED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6567B61-D8BC-45BB-888E-53C9E8863563}
+	EndGlobalSection
+EndGlobal
