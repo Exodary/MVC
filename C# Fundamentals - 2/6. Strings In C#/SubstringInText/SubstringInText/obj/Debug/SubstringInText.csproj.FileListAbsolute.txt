@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\bin\Debug\SubstringInText.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\bin\Debug\SubstringInText.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\bin\Debug\SubstringInText.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\obj\Debug\SubstringInText.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\obj\Debug\SubstringInText.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\SubstringInText\SubstringInText\obj\Debug\SubstringInText.pdb
