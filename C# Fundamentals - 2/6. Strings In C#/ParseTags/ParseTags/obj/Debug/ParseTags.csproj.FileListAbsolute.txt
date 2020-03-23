@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\obj\Debug\ParseTags.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\bin\Debug\ParseTags.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\bin\Debug\ParseTags.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\bin\Debug\ParseTags.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\obj\Debug\ParseTags.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseTags\ParseTags\obj\Debug\ParseTags.pdb

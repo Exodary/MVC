@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseTags", "ParseTags\ParseTags.csproj", "{2CCE4332-66A3-4AD2-A6EB-3991093760C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CCE4332-66A3-4AD2-A6EB-3991093760C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCE4332-66A3-4AD2-A6EB-3991093760C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCE4332-66A3-4AD2-A6EB-3991093760C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCE4332-66A3-4AD2-A6EB-3991093760C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {448F4B04-D846-4219-871C-B29D2EC42B1D}
+	EndGlobalSection
+EndGlobal
