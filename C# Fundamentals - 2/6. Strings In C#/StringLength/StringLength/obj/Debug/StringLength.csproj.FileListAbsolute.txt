@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\bin\Debug\StringLength.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\bin\Debug\StringLength.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\obj\Debug\StringLength.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\obj\Debug\StringLength.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\StringLength\StringLength\obj\Debug\StringLength.pdb
