@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.pdb
