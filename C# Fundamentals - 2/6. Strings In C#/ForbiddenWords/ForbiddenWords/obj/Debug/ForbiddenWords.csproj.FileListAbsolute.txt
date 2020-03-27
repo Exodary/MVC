@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\obj\Debug\ForbiddenWords.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ForbiddenWords\ForbiddenWords\obj\Debug\ForbiddenWords.pdb
