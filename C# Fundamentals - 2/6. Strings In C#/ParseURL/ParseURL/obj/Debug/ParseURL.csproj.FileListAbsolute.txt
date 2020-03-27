@@ -1,0 +1,5 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseURL\ParseURL\bin\Debug\ParseURL.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseURL\ParseURL\bin\Debug\ParseURL.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseURL\ParseURL\bin\Debug\ParseURL.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseURL\ParseURL\obj\Debug\ParseURL.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ParseURL\ParseURL\obj\Debug\ParseURL.pdb

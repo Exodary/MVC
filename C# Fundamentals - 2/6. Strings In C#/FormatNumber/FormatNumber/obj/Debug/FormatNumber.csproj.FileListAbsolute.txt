@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\bin\Debug\FormatNumber.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\bin\Debug\FormatNumber.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\obj\Debug\FormatNumber.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\FormatNumber\FormatNumber\obj\Debug\FormatNumber.pdb
