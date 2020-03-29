@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\bin\Debug\ReverseSentence.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\6. Strings In C#\ReverseSentence\ReverseSentence\obj\Debug\ReverseSentence.pdb
