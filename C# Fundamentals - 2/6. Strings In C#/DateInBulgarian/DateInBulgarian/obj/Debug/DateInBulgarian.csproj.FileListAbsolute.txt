@@ -1,0 +1,6 @@
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\bin\Debug\DateInBulgarian.exe.config
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\bin\Debug\DateInBulgarian.exe
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\bin\Debug\DateInBulgarian.pdb
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\obj\Debug\DateInBulgarian.csprojAssemblyReference.cache
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\obj\Debug\DateInBulgarian.exe
+D:\github\MVC\C# Fundamentals - 2\6. Strings In C#\DateInBulgarian\DateInBulgarian\obj\Debug\DateInBulgarian.pdb
