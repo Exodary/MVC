@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe.config
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\bin\Debug\DownloadFile.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\bin\Debug\DownloadFile.pdb
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\obj\Debug\DownloadFile.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\obj\Debug\DownloadFile.exe
+C:\Users\Krasimir\source\repos\C# Fundamentals - 2\7. Exception Handling\DownloadFile\DownloadFile\obj\Debug\DownloadFile.pdb
