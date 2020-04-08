@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\bin\Debug\PeaceOfCake.exe.config
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\bin\Debug\PeaceOfCake.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\bin\Debug\PeaceOfCake.pdb
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\PeaceOfCake\PeaceOfCake\obj\Debug\PeaceOfCake.pdb
