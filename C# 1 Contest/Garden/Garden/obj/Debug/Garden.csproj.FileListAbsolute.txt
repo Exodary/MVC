@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\bin\Debug\Garden.exe.config
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\bin\Debug\Garden.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\bin\Debug\Garden.pdb
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\obj\Debug\Garden.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\obj\Debug\Garden.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\Garden\Garden\obj\Debug\Garden.pdb
