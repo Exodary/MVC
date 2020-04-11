@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenlandNumbers", "SevenlandNumbers\SevenlandNumbers.csproj", "{BC075A13-9308-49FE-8ACB-C7C3FCBE4F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC075A13-9308-49FE-8ACB-C7C3FCBE4F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC075A13-9308-49FE-8ACB-C7C3FCBE4F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC075A13-9308-49FE-8ACB-C7C3FCBE4F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC075A13-9308-49FE-8ACB-C7C3FCBE4F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0A2C38-0372-4659-918F-40BFC4628526}
+	EndGlobalSection
+EndGlobal

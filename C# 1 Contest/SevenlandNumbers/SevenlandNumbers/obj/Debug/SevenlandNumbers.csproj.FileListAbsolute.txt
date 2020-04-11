@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\SevenlandNumbers\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb
