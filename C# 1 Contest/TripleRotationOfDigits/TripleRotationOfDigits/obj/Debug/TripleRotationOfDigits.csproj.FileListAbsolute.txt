@@ -1,0 +1,6 @@
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.csprojAssemblyReference.cache
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+C:\Users\Krasimir\source\repos\C# 1 Contest\TripleRotationOfDigits\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb
