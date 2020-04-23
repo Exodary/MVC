@@ -1,0 +1,6 @@
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\bin\Debug\ANacci.exe.config
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\bin\Debug\ANacci.exe
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\bin\Debug\ANacci.pdb
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\obj\Debug\ANacci.csprojAssemblyReference.cache
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\obj\Debug\ANacci.exe
+D:\github\MVC\C# 1 Contest\2. Second Tasks\ANacci\ANacci\obj\Debug\ANacci.pdb
