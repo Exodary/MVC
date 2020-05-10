@@ -10,61 +10,97 @@ namespace QuickSort
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            var array = new int[n];
-            for (int i = 0; i < n; i++)
+            int size = int.Parse(Console.ReadLine());
+
+            List<int> numbers = new List<int>();
+
+            numbers = Generate(size);
+
+            foreach (int num in numbers)
             {
-                array[i] = int.Parse(Console.ReadLine());
+                Console.WriteLine(num);
             }
 
-            // Converting array to list   
-            List<int> arrayList = new List<int>(array);
+            Console.WriteLine("#######");
 
-            List<int> sortedArray = QuickSorting(arrayList);
+            Shuffle(numbers);
 
-            for (int i = 0; i < sortedArray.Count; i++)
+            foreach (int num in numbers)
             {
-                Console.WriteLine(sortedArray[i]);
+                Console.WriteLine(num);
             }
 
+                Console.WriteLine("$$$$$");
+
+            List<int> sorted = QuickSort(numbers);
+
+            foreach(int num in sorted)
+            {
+                Console.WriteLine(num);
+            }
         }
 
-        static List<int> QuickSorting(List<int> unsortedList)
+        public static List<int> QuickSort(List<int> numbers)
         {
-            if (unsortedList.Count <= 1)
+            if(numbers.Count <= 1)
             {
-                return unsortedList;
+                return numbers;
             }
 
-            int pivot = unsortedList.Count / 2;
-            int pivotValue = unsortedList[pivot];
+            int pivotValue = numbers.Count / 2;
+            int pivot = numbers[pivotValue];
 
-            //public void RemoveAt(int index); => Removes the element at the specified index 
-            unsortedList.RemoveAt(pivot);
-
-            List<int> less = new List<int>();
+            List<int> lesser = new List<int>();
             List<int> greater = new List<int>();
 
-            foreach (int element in unsortedList)
+            for(int i = 0; i < numbers.Count; i++)
             {
-                if (element <= pivotValue)
+                if(numbers[i] < pivot)
                 {
-                    less.Add(element);
+                    lesser.Add(numbers[i]);
                 }
-                else
+                else if(numbers[i] > pivot)
                 {
-                    greater.Add(element);
-                }
+                    greater.Add(numbers[i]);
+                }                
             }
-
             List<int> result = new List<int>();
 
-            // Add the elements of the specified collection to the end of the System.Collections.Generic.List`1.
-            result.AddRange(QuickSorting(less)); //public void AddRange(IEnumerable<T> collection)
-            result.Add(pivotValue);
-            result.AddRange(QuickSorting(greater));
+            result.AddRange(QuickSort(lesser));
+            result.Add(pivot);
+            result.AddRange(QuickSort(greater));
 
             return result;
+        }
+
+        public static List<int> Generate(int maxNumber)
+        {
+            var numbers = new List<int>();
+
+            for(int i = 1; i <= maxNumber; i++)
+            {
+                numbers.Add(i);
+            }
+
+            return numbers;
+        }
+
+        public static void Shuffle(List<int> numbers)
+        {
+            Random random = new Random();
+
+            for(int i = 0; i < numbers.Count; i++)
+            {
+                var randomIndex = random.Next(i, numbers.Count);
+                Swap(numbers, i, randomIndex);
+            }
+        }
+
+        public static void Swap(List<int> numbers, int firstIndex, int secondIndex)
+        {
+            int temp = numbers[firstIndex];
+            numbers[firstIndex] = numbers[secondIndex];
+            numbers[secondIndex] = temp;
         }
     }
 }
